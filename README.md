@@ -20,10 +20,10 @@
 
 ## Authors
 
-|Software engineer|Data scientist|
+|Software engineer|Data scientist||Software engineer & Data scientist|
 |:----:|:----:|   
-|<img src="https://www.khu.ac.kr/kor/resources/user/img/mobile/common/logo.jpg" width=150>|<img src="https://www.khu.ac.kr/kor/resources/user/img/mobile/common/logo.jpg" width=150>|
-|**[Cheolhyeon Han <br> 한철현](https://github.com/festring)**|**[Sebin Kwon <br> 권세빈](https://github.com/)**|
+|<img src="https://skpark-khu.github.io/image/member/chhan.jpg" width=150>|<img src="https://www.khu.ac.kr/kor/resources/user/img/mobile/common/logo.jpg" width=150>|<img src="https://skpark-khu.github.io/image/member/skpark.png" width=150>|
+|**[Cheolhyeon Han <br> 한철현](https://github.com/festring)**|**[Sebin Kwon <br> 권세빈](https://github.com/)**|**[Sangkuen Park <br> 박상근](https://skpark-khu.github.io)**|
 
   
 ## License
@@ -34,9 +34,6 @@ This dataset is licensed under a [CC-BY-NC-SA 4.0 License](https://creativecommo
   
 ```
 @misc{coupang_review_dataset
-  author       = {Han, Cheolhyeon and Kwon,Sebin },
-  title        = {coupang_review_dataset},
-  howpublished = {\url{https://github.com/festring/coupang_review_dataset/}},
-  year         = {2024},
+TBD
 }
 ```
