@@ -27,7 +27,7 @@ This dataset is licensed under a [CC-BY-NC-SA 4.0 License](https://creativecommo
 ## Citation
   
 ```
-@misc{DKTC
+@misc{coupang_review_dataset
   author       = {Han, Cheolhyeon and Kwon,Sebin },
   title        = {coupang_review_dataset},
   howpublished = {\url{https://github.com/festring/coupang_review_dataset/}},
