@@ -20,8 +20,8 @@
 
 ## Authors
 
-|Software engineer|Data scientist||Software engineer & Data scientist|
-|:----:|:----:|   
+|Software engineer|Data scientist|Software engineer & Data scientist|
+|:----:|:----:|:----:|
 |<img src="https://skpark-khu.github.io/image/member/chhan.jpg" width=150>|<img src="https://www.khu.ac.kr/kor/resources/user/img/mobile/common/logo.jpg" width=150>|<img src="https://skpark-khu.github.io/image/member/skpark.png" width=150>|
 |**[Cheolhyeon Han <br> 한철현](https://github.com/festring)**|**[Sebin Kwon <br> 권세빈](https://github.com/)**|**[Sangkuen Park <br> 박상근](https://skpark-khu.github.io)**|
 
