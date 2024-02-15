@@ -1,4 +1,4 @@
-# coupang_review_dataset
+# Coupang Fake Reviewer Dataset
 본 데이터셋은 KCSE_2024에 게재된 "KNN 기반의 가짜 리뷰 계정 분류 모델 및 서비스 개발" 논문에 사용된 데이터 입니다. 리뷰수, 성실도, 쿠팡비율, 글자수, 작성일수 라는 5가지의 특성과 리뷰알바 여부를 포합니다. 
 
 쿠팡 리뷰 알바에 직접 컨택하여 "빈박스 배송"이라는 리뷰알바의 특성을 파악했습니다. 이 "빈 박스 배송" 이라는 특성에 맞게 리뷰 조작 작업 시작 이후 3 일 이내에 리뷰를 작성한 379 개 계정을 가짜 리뷰로 결정했습니다.
@@ -22,7 +22,6 @@
 
 |Software engineer|Data scientist|Software engineer & Data scientist|
 |:----:|:----:|:----:|
-|<img src="https://skpark-khu.github.io/image/member/chhan.jpg" width=150>|<img src="https://www.khu.ac.kr/kor/resources/user/img/mobile/common/logo.jpg" width=150>|<img src="https://skpark-khu.github.io/image/member/skpark.png" width=150>|
 |**[Cheolhyeon Han <br> 한철현](https://github.com/festring)**|**[Sebin Kwon <br> 권세빈](https://github.com/)**|**[Sangkuen Park <br> 박상근](https://skpark-khu.github.io)**|
 
   
