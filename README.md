@@ -30,7 +30,7 @@
 
 
 ## Authors
-
+|:----:|:---:|:-----:|
 |**[Cheolhyeon Han <br> 한철현](https://github.com/festring)**|**[Sebin Kwon <br> 권세빈](https://github.com/)**|**[Sangkuen Park <br> 박상근](https://skpark-khu.github.io)**|
 
   
@@ -41,7 +41,12 @@ This dataset is licensed under a [CC-BY-NC-SA 4.0 License](https://creativecommo
 ## Citation
   
 ```
-@misc{coupang_review_dataset
-TBD
+@conference{han2024developing
+  title     = {Developing an Account-Level Fake Reviewer Detection Model and Service using KNN},
+  author    = {Han, Cheolhyeon and Kwon, Sebin and Park, Sangkuen },
+  booktitle = {Korea Conference on Software Engineering},
+  pages     = {146--151},
+  year      = {2024}
+
 }
 ```
