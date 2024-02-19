@@ -10,10 +10,10 @@
 더 자세한 데이터의 수집 과정은 논문에 기재되어 있습니다.
 
 본 논문에서는 해당 데이터를 KNN 알고리즘을 사용한 군집분석을 사용하여 모델을 학습했습니다. 
+---
+*논문 링크* : https://drive.google.com/file/d/101KFHvzcPjdnRjvUpIcIx52hzjzj9o3Q/view?usp=sharing
 
-논문 링크 : https://drive.google.com/file/d/101KFHvzcPjdnRjvUpIcIx52hzjzj9o3Q/view?usp=sharing
-
-논문 발표  PPT 링크 : https://drive.google.com/file/d/103WUVOTpQPE5UeIm92n9txpHohvecrlb/view?usp=sharing
+*논문 발표  PPT 링크* : https://drive.google.com/file/d/103WUVOTpQPE5UeIm92n9txpHohvecrlb/view?usp=sharing
 
 ## Sample
 <img width="588" alt="image" src="https://github.com/festring/coupang_review_dataset/assets/146055385/9fc35c47-139f-4014-b869-f40b8bbbdd79">
