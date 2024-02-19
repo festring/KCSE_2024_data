@@ -31,7 +31,6 @@
 
 ## Authors
 
-|:----:|:----:|:----:|
 |**[Cheolhyeon Han <br> 한철현](https://github.com/festring)**|**[Sebin Kwon <br> 권세빈](https://github.com/)**|**[Sangkuen Park <br> 박상근](https://skpark-khu.github.io)**|
 
   
