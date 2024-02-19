@@ -3,9 +3,9 @@
 
 리뷰수, 성실도, 쿠팡비율, 글자수, 작성일수 라는 5가지의 특성과 가짜리뷰(리뷰알바) 여부를 포합니다. 
 
-<span style="background-color:red; font-weight:bold;">가짜 리뷰 계정 379 개</span>는 쿠팡 리뷰 알바 모집에 직접 참여한 뒤, 일정 기간동안 교차검증을 거쳐 수집했습니다.
+**가짜 리뷰 계정 379 개**는 쿠팡 리뷰 알바 모집에 직접 참여한 뒤, 일정 기간동안 교차검증을 거쳐 수집했습니다.
 
-일반 계정 확보 380 개는 쿠팡에서 애플(Apple)의 맥북 제품 판매 페이지에 접속하여 리뷰를 작성한 계정을 수집했습니다.
+**일반 계정 확보 380 개**는 쿠팡에서 애플(Apple)의 맥북 제품 판매 페이지에 접속하여 리뷰를 작성한 계정을 수집했습니다.
 
 더 자세한 데이터의 수집 과정은 논문에 기재되어 있습니다.
 
@@ -16,6 +16,8 @@
 논문 발표  PPT 링크 : https://drive.google.com/file/d/103WUVOTpQPE5UeIm92n9txpHohvecrlb/view?usp=sharing
 
 ## Sample
+<img width="588" alt="image" src="https://github.com/festring/coupang_review_dataset/assets/146055385/9fc35c47-139f-4014-b869-f40b8bbbdd79">
+
 
 ## Basic Information
  
