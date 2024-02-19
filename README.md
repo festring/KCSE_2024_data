@@ -11,7 +11,7 @@
 
 본 논문에서는 해당 데이터를 KNN 알고리즘을 사용한 군집분석을 사용하여 모델을 학습했습니다. 
 
---
+
 *논문 링크* : https://drive.google.com/file/d/101KFHvzcPjdnRjvUpIcIx52hzjzj9o3Q/view?usp=sharing
 
 *논문 발표  PPT 링크* : https://drive.google.com/file/d/103WUVOTpQPE5UeIm92n9txpHohvecrlb/view?usp=sharing
