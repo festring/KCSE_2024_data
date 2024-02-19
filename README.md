@@ -10,6 +10,7 @@
 더 자세한 데이터의 수집 과정은 논문에 기재되어 있습니다.
 
 본 논문에서는 해당 데이터를 KNN 알고리즘을 사용한 군집분석을 사용하여 모델을 학습했습니다. 
+
 ---
 *논문 링크* : https://drive.google.com/file/d/101KFHvzcPjdnRjvUpIcIx52hzjzj9o3Q/view?usp=sharing
 
