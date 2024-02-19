@@ -7,9 +7,13 @@
 
 일반 계정 확보는 쿠팡에서 애플(Apple)의 맥북 제품 판매 페이지에 접속하여 리뷰를 작성한 계정의 ID 380 개를 수집했습니다.
 
-더 자세한 데이터의 수집 과정은 논문(https://drive.google.com/file/d/103WUVOTpQPE5UeIm92n9txpHohvecrlb/view?usp=sharing)에 기재되어 있습니다
+더 자세한 데이터의 수집 과정은 논문에 기재되어 있습니다
 
 본 논문에서는 해당 데이터를 KNN 알고리즘을 사용한 군집분석을 사용하여 모델을 학습했습니다. 
+
+논문 링크 : https://drive.google.com/file/d/101KFHvzcPjdnRjvUpIcIx52hzjzj9o3Q/view?usp=sharing
+
+논문 발표  PPT 링크 : https://drive.google.com/file/d/103WUVOTpQPE5UeIm92n9txpHohvecrlb/view?usp=sharing
 
 ## Sample
 
