@@ -33,7 +33,7 @@
 * 객관식리뷰 등에 관한 자세한 설명은 논문 발표 PPT에 있습니다.  
 
 ## Authors
-|:----:|:---:|:-----:|
+|:---:|:---:|:---:|
 |**[Cheolhyeon Han <br> 한철현](https://github.com/festring)**|**[Sebin Kwon <br> 권세빈](https://github.com/)**|**[Sangkuen Park <br> 박상근](https://skpark-khu.github.io)**|
 
   
